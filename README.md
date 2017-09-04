@@ -10,20 +10,23 @@ The program should then find a combination of dishes that has a total of exactly
 
 The file `input.csv` contains the following information:
 
-```Target price,$2.75
+```
+Target price,$2.75
 
 mixed fruit,$2.15
 french fries,$2.60
 gum,$0.25
 coke,$1.50
 cookie,$2.75
-fries,$1.25```
+fries,$1.25
+```
 
 ### Output
 
 Then it prints possible all the combinations from the menu items that sums up to a target:
 
-```Option 1:
+```
+Option 1:
 -----------
 coke - $1.50
 fries - $1.25
@@ -34,7 +37,8 @@ Option 2:
 -----------
 cookie - $2.75
 -----------
-Total: $2.75```
+Total: $2.75
+```
 
 ### Instructions
 
