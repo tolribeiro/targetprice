@@ -1,4 +1,4 @@
-# Coding Puzzle
+# Target Price Implementation
 
 ## Description:
 
