@@ -45,3 +45,5 @@ Total: $2.75
 To run the program, go on terminal and type:
 
 `./main input.csv`
+
+*heuristic*
